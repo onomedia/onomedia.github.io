@@ -1,0 +1,38 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.jumbotron{
+	padding-top: 70px;
+	background-color: #DADDFC;
+}
+
+.navbar{
+	background-color: #2E4C6D;
+}
+
+#education, #contact{
+	background-color: #DADDFC;
+}
+
+footer a{
+	text-decoration: none;
+	color: white;
+}
+
+footer{
+	padding-bottom: 20px;
+	background-color: #2E4C6D;
+}
+
+section{
+	padding-top: 70px;
+}
+
+.accordion-button, .accordion-item{
+	background-color: #DADDFC;
+}
+
+#riwayat-org .accordion-body{
+	background-color: #fff;
+}
